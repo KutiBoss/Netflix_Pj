@@ -1,2 +1,2 @@
-# Netflix_Pj
+Neflify Link https://netflix-hero-clone.netlify.app/
  
